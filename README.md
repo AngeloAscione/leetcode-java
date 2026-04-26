@@ -1,9 +1,9 @@
 # Java Data Structures & Algorithms Lab 🚀
 
-A comprehensive repository dedicated to mastering algorithms and data structures for Big Tech interviews (Google, AWS, Qualcomm). This project tracks my transition from a specialized Security Engineer to a world-class problem solver, bridging the gap between professional experience and academic excellence.
+A comprehensive repository dedicated to mastering algorithms and data structures for Big Tech interviews (Google, AWS, Qualcomm). This project tracks my progress through the journey of problem solving.
 
 ## 🎯 Objective
-The goal is to move beyond "stagnant" comfort by refining logic, mastering Java's core implementations, and internalizing algorithmic patterns through consistent practice.
+The goal is to mastering Java's core implementations, and internalizing algorithmic patterns through consistent practice.
 
 ## 🏗 Repository Structure
 The repository is organized by technical categories, further divided by difficulty to ensure a progressive learning curve:
@@ -24,8 +24,7 @@ git
 
 ## 🛠 Tech Stack & Methodology
 - Language: Java 17+ (Chosen for its strict typing and explicit memory/structure control).
-- Core Resources: Cracking the Coding Interview (6th & Beyond) and LeetCode (NeetCode 150).
-- Security-First Approach: Every solution is analyzed not just for speed $O(n)$, but for robustness, edge-case safety, and memory efficiency—skills directly transferable to Software Security Engineering.
+- Core Resources: Cracking the Coding Interview (6th & Beyond) and LeetCode (NeetCode 250).
 
 ## 📝 The Interviewer’s Checklist
 For every solution in this repo, I aim to answer:
