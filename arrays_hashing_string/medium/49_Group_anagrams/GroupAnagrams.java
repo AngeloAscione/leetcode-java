@@ -3,11 +3,15 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.stream.Collector;
-import java.util.stream.Collectors;
 
 public class GroupAnagrams {
 
+
+    // Non è la più efficiente. 
+    // Si potrebbe creare un array di frequenze e trasformarlo in stringhe per ottenere la chiave della mappa, 
+    // rimuovendo l'ordinamento
+
+    // RICORDA Molto spesso, quando si ha a che fare con lettere dell'alfabeto, anagrammi ecc... L'array di frequenze può aiutare
     public static List<List<String>> groupAnagrams(String[] strs) {
     
         Map<String, List<String>> groupedAnagrams = new HashMap<>();
